@@ -11,7 +11,7 @@ public class GenerateSummary {
 
     // OpenRouter API URL and API Key
     private static final String API_URL = "https://openrouter.ai/api/v1/chat/completions";
-    private static final String API_KEY = "Bearer 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"; // Replace with actual key
+    private static final String API_KEY = "Bearer <YOUR-API-KEY>"; // Replace with actual key
 
     public String generateSummary(String blogContent) {
         // Clean and format blog content
