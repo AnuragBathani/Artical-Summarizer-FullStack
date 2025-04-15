@@ -1,0 +1,122 @@
+Gladinet’s Triofox and CentreStack Under Active Exploitation via Critical RCE Vulnerability
+https://thehackernews.com/2025/04/gladinets-triofox-and-centrestack-under.html
+Meta Resumes E.U. AI Training Using Public User Data After Regulator Approval
+https://thehackernews.com/2025/04/meta-resumes-eu-ai-training-using.html
+ResolverRAT Campaign Targets Healthcare, Pharma via Phishing and DLL Side-Loading
+https://thehackernews.com/2025/04/resolverrat-campaign-targets-healthcare.html
+Phishing Campaigns Use Real-Time Checks to Validate Victim Emails Before Credential Theft
+https://thehackernews.com/2025/04/phishing-campaigns-use-real-time-checks.html
+⚡ Weekly Recap: Windows 0-Day, VPN Exploits, Weaponized AI, Hijacked Antivirus and More
+https://thehackernews.com/2025/04/weekly-recap-windows-0-day-vpn-exploits.html
+Cybersecurity in the AI Era: Evolve Faster Than the Threats or Get Left Behind
+https://thehackernews.com/2025/04/cybersecurity-in-ai-era-evolve-faster.html
+Pakistan-Linked Hackers Expand Targets in India with CurlBack RAT and Spark RAT
+https://thehackernews.com/2025/04/pakistan-linked-hackers-expand-targets.html
+Fortinet Warns Attackers Retain FortiGate Access Post-Patching via SSL-VPN Symlink Exploit
+https://thehackernews.com/2025/04/fortinet-warns-attackers-retain.html
+Paper Werewolf Deploys PowerModul Implant in Targeted Cyberattacks on Russian Sectors
+https://thehackernews.com/2025/04/paper-werewolf-deploys-powermodul.html
+Initial Access Brokers Shift Tactics, Selling More for Less
+https://thehackernews.com/2025/04/initial-access-brokers-shift-tactics.html
+Palo Alto Networks Warns of Brute-Force Attempts Targeting PAN-OS GlobalProtect Gateways
+https://thehackernews.com/2025/04/palo-alto-networks-warns-of-brute-force.html
+SpyNote, BadBazaar, MOONSHINE Malware Target Android and iOS Users via Fake Apps
+https://thehackernews.com/2025/04/spynote-badbazaar-moonshine-malware.html
+OttoKit WordPress Plugin Admin Creation Vulnerability Under Active Exploitation
+https://thehackernews.com/2025/04/ottokit-wordpress-plugin-admin-creation.html
+Incomplete Patch in NVIDIA Toolkit Leaves CVE-2024-0132 Open to Container Escapes
+https://thehackernews.com/2025/04/incomplete-patch-in-nvidia-toolkit.html
+Malicious npm Package Targets Atomic Wallet, Exodus Users by Swapping Crypto Addresses
+https://thehackernews.com/2025/04/malicious-npm-package-targets-atomic.html
+PlayPraetor Reloaded: CTM360 Uncovers a Play Masquerading Party
+https://thehackernews.com/2025/04/playpraetor-reloaded-ctm360-uncovers.html
+The Identities Behind AI Agents: A Deep Dive Into AI & NHI
+https://thehackernews.com/2025/04/the-identities-behind-ai-agents-deep.html
+Gamaredon Uses Infected Removable Drives to Breach Western Military Mission in Ukraine
+https://thehackernews.com/2025/04/gamaredon-uses-infected-removable.html
+Europol Arrests Five SmokeLoader Clients Linked by Seized Database Evidence
+https://thehackernews.com/2025/04/europol-arrests-five-smokeloader.html
+AkiraBot Targets 420,000 Sites with OpenAI-Generated Spam, Bypassing CAPTCHA Protections
+https://thehackernews.com/2025/04/akirabot-targets-420000-sites-with.html
+Lovable AI Found Most Vulnerable to VibeScamming — Enabling Anyone to Build Live Scam Pages
+https://thehackernews.com/2025/04/lovable-ai-found-most-vulnerable-to.html
+New TCESB Malware Found in Active Attacks Exploiting ESET Security Scanner
+https://thehackernews.com/2025/04/new-tcesb-malware-found-in-active.html
+Explosive Growth of Non-Human Identities Creating Massive Security Blind Spots
+https://thehackernews.com/2025/04/explosive-growth-of-non-human.html
+PipeMagic Trojan Exploits Windows Zero-Day Vulnerability to Deploy Ransomware
+https://thehackernews.com/2025/04/pipemagic-trojan-exploits-windows-clfs.html
+CISA Warns of CentreStack's Hard-Coded MachineKey Vulnerability Enabling RCE Attacks
+https://thehackernews.com/2025/04/cisa-warns-of-centrestacks-hard-coded.html
+Microsoft Patches 125 Flaws Including Actively Exploited Windows CLFS Vulnerability
+https://thehackernews.com/2025/04/microsoft-patches-126-flaws-including.html
+Adobe Patches 11 Critical ColdFusion Flaws Amid 30 Total Vulnerabilities Discovered
+https://thehackernews.com/2025/04/adobe-patches-11-critical-coldfusion.html
+Fortinet Urges FortiSwitch Upgrades to Patch Critical Admin Password Change Flaw
+https://thehackernews.com/2025/04/fortinet-urges-fortiswitch-upgrades-to.html
+Amazon EC2 SSM Agent Flaw Patched After Privilege Escalation via Path Traversal
+https://thehackernews.com/2025/04/amazon-ec2-ssm-agent-flaw-patched-after.html
+Cryptocurrency Miner and Clipper Malware Spread via SourceForge Cracked Software Listings
+https://thehackernews.com/2025/04/cryptocurrency-miner-and-clipper.html
+Agentic AI in the SOC - Dawn of Autonomous Alert Triage
+https://thehackernews.com/2025/04/agentic-ai-in-soc-dawn-of-autonomous.html
+UAC-0226 Deploys GIFTEDCROOK Stealer via Malicious Excel Files Targeting Ukraine
+https://thehackernews.com/2025/04/uac-0226-deploys-giftedcrook-stealer.html
+CISA Adds CrushFTP Vulnerability to KEV Catalog Following Confirmed Active Exploitation
+https://thehackernews.com/2025/04/cisa-adds-crushftp-vulnerability-to-kev.html
+Google Releases Android Update to Patch Two Actively Exploited Vulnerabilities
+https://thehackernews.com/2025/04/google-releases-android-update-to-patch.html
+CISA and FBI Warn Fast Flux is Powering Resilient Malware, C2, and Phishing Networks
+https://thehackernews.com/2025/04/cisa-and-fbi-warn-fast-flux-is-powering.html
+⚡ Weekly Recap: VPN Exploits, Oracle's Silent Breach, ClickFix Surge and More
+https://thehackernews.com/2025/04/weekly-recap-vpn-exploits-oracles.html
+Security Theater: Vanity Metrics Keep You Busy - and Exposed
+https://thehackernews.com/2025/04/security-theater-vanity-metrics-keep.html
+PoisonSeed Exploits CRM Accounts to Launch Cryptocurrency Seed Phrase Poisoning Attacks
+https://thehackernews.com/2025/04/poisonseed-exploits-crm-accounts-to.html
+Microsoft Credits EncryptHub, Hacker Behind 618+ Breaches, for Disclosing Windows Flaws
+https://thehackernews.com/2025/04/microsoft-credits-encrypthub-hacker.html
+North Korean Hackers Deploy BeaverTail Malware via 11 Malicious npm Packages
+https://thehackernews.com/2025/04/north-korean-hackers-deploy-beavertail.html
+Malicious Python Packages on PyPI Downloaded 39,000+ Times, Steal Sensitive Data
+https://thehackernews.com/2025/04/malicious-python-packages-on-pypi.html
+SpotBugs Access Token Theft Identified as Root Cause of GitHub Supply Chain Attack
+https://thehackernews.com/2025/04/spotbugs-access-token-theft-identified.html
+Have We Reached a Distroless Tipping Point?
+https://thehackernews.com/2025/04/have-we-reached-distroless-tipping-point.html
+Critical Ivanti Flaw Actively Exploited to Deploy TRAILBLAZE and BRUSHFIRE Malware
+https://thehackernews.com/2025/04/critical-ivanti-flaw-actively-exploited.html
+OPSEC Failure Exposes Coquettte’s Malware Campaigns on Bulletproof Hosting Servers
+https://thehackernews.com/2025/04/opsec-failure-exposes-coquetttes.html
+CERT-UA Reports Cyberattacks Targeting Ukrainian State Systems with WRECKSTEEL Malware
+https://thehackernews.com/2025/04/cert-ua-reports-cyberattacks-targeting.html
+Critical Flaw in Apache Parquet Allows Remote Attackers to Execute Arbitrary Code
+https://thehackernews.com/2025/04/critical-flaw-in-apache-parquet-allows.html
+Microsoft Warns of Tax-Themed Email Attacks Using PDFs and QR Codes to Deliver Malware
+https://thehackernews.com/2025/04/microsoft-warns-of-tax-themed-email.html
+Lazarus Group Targets Job Seekers With ClickFix Tactic to Deploy GolangGhost Malware
+https://thehackernews.com/2025/04/lazarus-group-targets-job-seekers-with.html
+Hertz confirms customer info, drivers' licenses stolen in data breach
+https://www.bleepingcomputer.com/news/security/hertz-confirms-customer-info-drivers-licenses-stolen-in-data-breach/
+Govtech giant Conduent confirms client data stolen in January cyberattack
+https://www.bleepingcomputer.com/news/security/govtech-giant-conduent-confirms-client-data-stolen-in-january-cyberattack/
+Cybersecurity firm buying hacker forum accounts to spy on cybercriminals
+https://www.bleepingcomputer.com/news/security/cybersecurity-firm-buying-hacker-forum-accounts-to-spy-on-cybercriminals/
+SSL/TLS certificate lifespans reduced to 47 days by 2029
+https://www.bleepingcomputer.com/news/security/ssl-tls-certificate-lifespans-reduced-to-47-days-by-2029/
+New ResolverRAT malware targets pharma and healthcare orgs worldwide
+https://www.bleepingcomputer.com/news/security/new-resolverrat-malware-targets-pharma-and-healthcare-orgs-worldwide/
+Meta to resume AI training on content shared by Europeans
+https://www.bleepingcomputer.com/news/technology/meta-to-resume-ai-training-on-content-shared-by-europeans/
+Kidney dialysis firm DaVita hit by weekend ransomware attack
+https://www.bleepingcomputer.com/news/security/kidney-dialysis-firm-davita-hit-by-weekend-ransomware-attack/
+Enhancing your DevSecOps with Wazuh, the open source XDR platform
+https://www.bleepingcomputer.com/news/security/enhancing-your-devsecops-with-wazuh-the-open-source-xdr-platform/
+Microsoft tells Windows users to ignore 0x80070643 WinRE errors
+https://www.bleepingcomputer.com/news/microsoft/microsoft-tells-windows-users-to-ignore-winre-install-errors/
+Microsoft: New Windows updates fix Active Directory policy issues
+https://www.bleepingcomputer.com/news/microsoft/microsoft-new-emergency-windows-updates-fix-ad-policy-issues/
+OpenAI's GPT-4.1, 4.1 nano, and 4.1 mini models release imminent
+https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-41-41-nano-and-41-mini-models-release-imminent/
+Microsoft: Windows Server 2025 restarts break connectivity on some DCs
+https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2025-restarts-break-services-on-domain-controllers/
