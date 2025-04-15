@@ -1,0 +1,13 @@
+com\yourdomain\summarizer\model\Article.class
+com\yourdomain\summarizer\model\SummarizeRequest.class
+com\yourdomain\summarizer\model\SummarizeResponse.class
+com\yourdomain\summarizer\controller\SummarizeController.class
+org\example\saveInFile.class
+org\example\parseData.class
+org\example\FeedPro.class
+org\example\fetchData.class
+org\example\GenerateSummary.class
+com\yourdomain\summarizer\SummarizerApplication.class
+org\example\FetchContentFromResponse.class
+com\yourdomain\summarizer\service\SummarizeService.class
+org\example\FetchBlogContent.class
